@@ -20,7 +20,7 @@
 	"inputs": ["machine_type","region","resource_group","os_image_publisher","os_image_offer","os_image_sku","os_image_version"]
     }
   ],
- "inputs": [{"name":"pxd", "values":["a","s"]},{"name" : "dd"}],
+ "inputs": [{"name":"pxd", "values":["a","s"]},{"name" : "dd"},"breaks"],
   "deploymentParameters": ["network_name",
                            "floating_ip_pool",
                            "subnet_id"],
