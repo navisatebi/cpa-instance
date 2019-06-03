@@ -1,7 +1,7 @@
 {
-  "applicationName": "Generic server instance",
-  "contactEmail": "gianni@ebi.ac.uk",
-  "about": "A base virtual machine instance",
+  "applicationName": "Generic server instance with dropdown",
+  "contactEmail": "navis@ebi.ac.uk",
+  "about": "A base virtual machine instance with dropdown",
   "version": "0.6",
   "cloudProviders": [
     {
